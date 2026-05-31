@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Node.js, TypeScript, React, PostgreSQL, REST APIs, JWT Authentication, Data Warehousing, ArcGIS, ArcMap, and Software Engineering**
 
-- 📫 How to reach me **maroua@gmail.com**
+- 📫 How to reach me **marouabenstiti@gmail.com**
 
 - ⚡ Fun fact **I enjoy building projects across completely different domains—from secure backend systems and cloud platforms to data warehouses, GIS solutions, and optimization algorithms.**
 
