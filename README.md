@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maroua</h1>
-<h3 align="center">Software Engineering Graduate and Big Data Master's Student at USTHB.A passionate frontend developer from India</h3>
+<h3 align="center">Software Engineering Graduate and Big Data Master's Student at USTHB.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maroubns" alt="maroubns" /></a> </p>
 
